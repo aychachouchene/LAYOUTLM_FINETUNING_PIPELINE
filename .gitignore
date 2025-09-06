@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+*.ipynb
+
+# Data and outputs
+data/
+*.json  # Ignore large JSONs; commit samples if needed
+*.xlsx
+excel_générés/
+mon_model_layoutlm/
+
+# Misc
+.DS_Store
+*.log
