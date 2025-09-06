@@ -35,7 +35,7 @@ LayoutLM_Fine-Tuning_Pipeline/
 │   ├── train_layoutlm.py          # Fine-tunes and saves the model
 ├── .gitignore
 ├── README.md
-├── requirements.txt               # List of dependencies (create this if not present)
+├── requirements.txt               # List of dependencies 
 ```
 ## Installation
 
